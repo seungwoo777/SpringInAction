@@ -1,0 +1,5 @@
+spring:
+  application:
+    name : springInAction
+  thymeleaf:
+    cache: false
